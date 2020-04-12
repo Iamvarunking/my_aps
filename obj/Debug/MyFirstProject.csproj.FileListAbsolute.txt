@@ -1,0 +1,9 @@
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.Phone.resources
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.Properties.Resources.resources
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.GenerateResource.Cache
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb

@@ -1,0 +1,8 @@
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\bin\Release\MyFirstProject.exe.config
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\bin\Release\MyFirstProject.exe
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\bin\Release\MyFirstProject.pdb
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\obj\Release\MyFirstProject.Phone.resources
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\obj\Release\MyFirstProject.Properties.Resources.resources
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\obj\Release\MyFirstProject.csproj.GenerateResource.Cache
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\obj\Release\MyFirstProject.exe
+C:\Users\Varun Singh\Documents\cshaep\MyFirstProject\MyFirstProject\obj\Release\MyFirstProject.pdb
